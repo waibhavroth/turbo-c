@@ -4,8 +4,8 @@ void main()
 {
 int a=2;
 int b=3;
-int sub=a-b;
-printf("%d",sub);
+int add=a-b;
+printf("%d",add);
 
 getch();
 }
